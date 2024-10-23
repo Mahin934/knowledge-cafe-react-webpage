@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "cover": "https://i.ibb.co.com/Fz9p2bT/The-Art-of-Simplicity.jpg",
+      "title": "The Art of Simplicity",
+      "author": "Jane Doe",
+      "author_img": "https://i.ibb.co.com/02ywhWd/79295.jpg",
+      "posted_date": "Oct 01 (22 Days ago)",
+      "reading_time": 5,
+      "hashtag": ["#minimalism", "#design"]
+    },
+    {
+      "id": 2,
+      "cover": "https://i.ibb.co.com/Gx9rPvf/Journey-Through-Time.jpg",
+      "title": "Journey Through Time",
+      "author": "John Smith",
+      "author_img": "https://i.ibb.co.com/F5bx4q4/4186.jpg",
+      "posted_date": "Oct 15 (8 Days ago)",
+      "reading_time": 7,
+      "hashtag": ["#travel", "#history"]
+    },
+    {
+      "id": 3,
+      "cover": "https://i.ibb.co.com/FnqcHdv/Mindful-Coding.jpg",
+      "title": "Mindful Coding",
+      "author": "Alice Johnson",
+      "author_img": "https://i.ibb.co.com/8NYPT71/2147797373.jpg",
+      "posted_date": "Oct 22 (1 Days ago)",
+      "reading_time": 8,
+      "hashtag": ["#coding", "#mindfulness"]
+    },
+    {
+      "id": 4,
+      "cover": "https://i.ibb.co.com/6s3PCff/Architectural-Wonders.jpg",
+      "title": "Architectural Wonders",
+      "author": "David Lee",
+      "author_img": "https://i.ibb.co.com/02ywhWd/79295.jpg",
+      "posted_date": "Sep 30 (23 Days ago)",
+      "reading_time": 10,
+      "hashtag": ["#architecture", "#innovation"]
+    },
+    {
+      "id": 5,
+      "cover": "https://i.ibb.co.com/xXd6D55/Future-of-AI.jpg",
+      "title": "Future of AI",
+      "author": "Sophia Turner",
+      "author_img": "https://i.ibb.co.com/F5bx4q4/4186.jpg",
+      "posted_date": "Oct 20 (3 Days ago)",
+      "reading_time": 6,
+      "hashtag": ["#AI", "#technology"]
+    }
+  ]
+  
